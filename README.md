@@ -1,2 +1,2 @@
 # hello-world
-tp
+print('hello world')
